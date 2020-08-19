@@ -2,4 +2,6 @@ The following files are obtained from https://github.com/mattperich/TrialData: A
 
 The following files are obtained from https://github.com/raacampbell/shadedErrorBar: shadedErrorBar
 
-The file myLSTM contains a full LSTM programmed from scratch, with additional parameters for connectivity, decorrelation and noise.
+The file myLSTM contains a full LSTM programmed from scratch, with additional parameters for connectivity, decorrelation and noise
+
+The file center_out_data.mat is a small sample of the data used
