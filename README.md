@@ -1,3 +1,5 @@
+Curving the manifold: a recurrent neural network approach to understanding neural population dynamics in the motor cortex. 
+
 The following files are obtained from https://github.com/mattperich/TrialData: Analysis, DataProcessing, Plotting, Tools, td_limlab, util
 
 The following files are obtained from https://github.com/raacampbell/shadedErrorBar: shadedErrorBar
